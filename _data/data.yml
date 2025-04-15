@@ -80,20 +80,8 @@ education:
 
 experiences:
   title: Doświadczenie
-  info:
-  - role: Pracownik Magazynowy
-    time: 2024 - 2025
-    company: Amazon, Poznań
-    details: |
-        - Pobieranie produktów z półek, pakowanie i nadawanie zamówień.
-        - Odbieranie, sprawdzanie, sortowanie i układanie produktów na półkach.
-  - role: Pracownik Produkcji
-    time: 2022 - 2024
-    company: 4Kraft, Poznań
-    details: |
-        - Produkcja zabawek
   - role: Serwisant komputerowy, Sprzedawca
-    time: 2018 - 2022
+    time: 2022 - 2025
     company: Komputronik S.A
     details: |
         - Sprzedaż peryferii komputerowych stacjonarna oraz internetowa
@@ -104,6 +92,18 @@ experiences:
         - Wsparcie działań sprzedażowych
         - Kontakt telefoniczny i e-mailowy z klientem
         - Przyjmowanie dostaw i obsługa zwrotów
+  info:
+  - role: Pracownik Magazynowy
+    time: 2020 - 2022
+    company: Amazon, Poznań
+    details: |
+        - Pobieranie produktów z półek, pakowanie i nadawanie zamówień.
+        - Odbieranie, sprawdzanie, sortowanie i układanie produktów na półkach.
+  - role: Pracownik Produkcji
+    time: 2018 - 2020
+    company: 4Kraft, Poznań
+    details: |
+        - Produkcja zabawek
   - role: Monter internet radiowy, Serwisant komputerowy
     time: 2016 - 2018
     company: PPHU Pokal, Wolsztyn
@@ -256,6 +256,9 @@ skills:
     level: 98%
 
   - name: Obsługa e-mail
+    level: 98%
+
+  - name: Umiejętność wykorzystania AI
     level: 98%
 
   - name: Obsługa komputera
