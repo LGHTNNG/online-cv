@@ -38,7 +38,7 @@ sidebar:
     title: Języki
     info:
     - idiom: Angielski
-      level: B2
+      level: C2
 
     - idiom: Polski
       level: ojczysty
@@ -81,40 +81,32 @@ education:
 experiences:
   title: Doświadczenie
   info:
-  - role: Serwisant komputerowy, Sprzedawca
-    time: 2022 - 2025
-    company: Komputronik S.A
+  - role: Usługi IT
+    time: 2021 - 2025
+    company: LGHTNNG
     details: |
-        - Sprzedaż peryferii komputerowych stacjonarna oraz internetowa
-        - Serwisowanie laptopów i komputerów stacjonarnych
-        - Instalacja systemów operacyjnych (Windows, Linux), sterowników oraz oprogramowania
-        - Obsługa sklepu internetowego, zarzadzanie stanami magazynowymi
-        - Pakowanie zamówień i kompletowanie przesyłek
-        - Wsparcie działań sprzedażowych
-        - Kontakt telefoniczny i e-mailowy z klientem
-        - Przyjmowanie dostaw i obsługa zwrotów
+        - Pozyskiwanie nowych klientów na usługi programistyczne w modelu B2B.
+        - Praca zespołowa w metodyce Agile/Scrum.
+        - Pomoc w rozwiązywaniu problemów, konfliktów oraz planowaniu oraz przydzielaniu zadań na projekcie.
+        - Pomoc w komunikacji międzywydziałowej podczas trwania projektu.
+        - Raportowanie postępów prac do przełożonych.
+        - Dowodzenie zespołem i wypracowywanie strategii dalszego rozwoju.
+        - Kontakt telefoniczny i e-mailowy z klientami.
+  - role: Programista/Team Leader
+    time: 2019 - 2021
+    company: AtomScript Sp. z.o.o., Poznań
+    details: |
+        - Rozwój oprogramowania "Syllabus" wykorzystywanego przez polskie uczelnie wyższe.
+        - Rozwój oprogramowania dla znanej kancelarii prawnej.
+        - Nawiązywanie oraz utrzymywanie relacji z nowymi oraz istniejącymi klientami.
+        - Wsparcie działań sprzedażowych.
+        - Dowodzenie zespołem programistów i wypracowywanie strategii dalszego rozwoju oprogramowania.
   - role: Pracownik Magazynowy
-    time: 2020 - 2022
+    time: 2018 - 2019
     company: Amazon, Poznań
     details: |
         - Pobieranie produktów z półek, pakowanie i nadawanie zamówień.
         - Odbieranie, sprawdzanie, sortowanie i układanie produktów na półkach.
-  - role: Pracownik Produkcji
-    time: 2018 - 2020
-    company: 4Kraft, Poznań
-    details: |
-        - Produkcja zabawek
-  - role: Monter internet radiowy, Serwisant komputerowy
-    time: 2016 - 2018
-    company: PPHU Pokal, Wolsztyn
-    details: |
-        - Konfiguracja routerów, anten panelowych
-        - Instalacja anten na budynkach
-        - Doprowadzanie kabla telekomunikacyjnego
-        - Montaż wtyczek RJ45
-        - Serwisowanie laptopów i komputerów stacjonarnych
-        - Instalacja systemów operacyjnych (Windows, Linux), sterowników oraz oprogramowania
-        - Kontakt e-mailowy i telefoniczny z klientem
 
 certifications:
   # title: Certifications
@@ -263,7 +255,7 @@ skills:
 
   - name: Obsługa komputera
 
-  - name: Serwisowanie sprzętu komputerowego
+  - name: Budowanie oraz utrzymywanie relacji z klientami
 
   - name: Umiejętność sprzedaży i negocjacji z klientem
 
