@@ -81,14 +81,14 @@ education:
 experiences:
   title: Doświadczenie
   info:
-  - role: Pracownik Magazynowy
-    time: 2022 - 2026
-    company: Amazon, Poznań
+  - role: Sprzedawca usług Google
+    time: 2025 - 2026
+    company: TTEC, Kraków
     details: |
-        - Pobieranie produktów z półek, pakowanie i nadawanie zamówień.
-        - Odbieranie, sprawdzanie, sortowanie i układanie produktów na półkach.
+        - Sprzedaż usług google firmom.
+        - Zarządzanie klientami na platformie Google ads.
   - role: Usługi IT
-    time: 2021 - 2022
+    time: 2022 - 2024
     company: LGHTNNG, Poznań, Kraków
     details: |
         - Pozyskiwanie nowych oraz utrzymywanie relacji z istniejącymi klientami na usługi programistyczne w modelu B2B.
@@ -109,7 +109,12 @@ experiences:
         - Nawiązywanie oraz utrzymywanie relacji z nowymi oraz istniejącymi klientami.
         - Wsparcie działań sprzedażowych.
         - Dowodzenie zespołem programistów i wypracowywanie strategii dalszego rozwoju oprogramowania.
-
+  - role: Pracownik Magazynowy
+    time: 2018 - 2019
+    company: Amazon, Poznań
+    details: |
+        - Pobieranie produktów z półek, pakowanie i nadawanie zamówień.
+        - Odbieranie, sprawdzanie, sortowanie i układanie produktów na półkach.
 
 certifications:
   # title: Certifications
