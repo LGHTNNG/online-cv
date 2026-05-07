@@ -66,8 +66,8 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: Profil Mat-Fiz
-    university: Liceum ogólnokształcące im. Marii Skłodowskiej-Curie
+  - degree: Mathematics and Physics profile
+    university: Maria Skłodowska-Curie General Secondary School
     time: 2007 - 2010
     # details: |
     #   Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -90,8 +90,8 @@ experiences:
         - Provide guidance to clients on Google Ads-related matters, including proposing new solutions, negotiating offers, and educating them about Google Ads products.
         - Manage all aspects of Google Ads, including campaign setup, rebuild existing campaigns, and monitor, optimize, and report on results.
         - Sell Google Ads products and solutions (inside sales, upselling, cross selling), continuously analyzing results to ensure the achievement of set goals. 
-        - Collaborate with employees from various departments to prepare solutions for clients and develop their campaigns during the customer service period
-        - Meet your personal productivity requirements (KPIs) daily while being a team player contributing to the overall team sales targets
+        - Collaborate with employees from various departments to prepare solutions for clients and develop their campaigns during the customer service period.
+        - Meet your personal productivity requirements (KPIs) daily while being a team player contributing to the overall team sales targets.
   - role: Software Engineer/Team Leader
     time: 2022 - 2024
     company: LGHTNNG, Poznan, Cracow
@@ -99,7 +99,7 @@ experiences:
         - Acquiring new B2B clients and maintaining relationships with existing clients for software development services.
         - Working collaboratively in an Agile/Scrum environment.
         - Developing software solutions for company clients.
-        - Creating project roadmaps and breaking them down into individual tasks.
+        - Creating Jira based project roadmaps and breaking them down into individual tasks.
         - Supporting problem-solving, conflict resolution, and project task planning and allocation.
         - Assisting with interdepartmental communication throughout project execution.
         - Reporting project progress to management.
@@ -116,7 +116,7 @@ experiences:
         - Leading a team of developers and defining strategies for further software development.
   - role: Warehouse picker
     time: 2018 - 2019
-    company: Amazon, Poznań
+    company: Amazon, Poznan
     details: |
         - Working with handheld scanner to retrieve customer items from storage to fulfill orders.
 
@@ -250,37 +250,29 @@ skills:
   - name: Ms Office
     level: 98%
 
-  - name: Komunikatywność
+  - name: Communication
     level: 98%
 
   - name: Jira
     level: 98%
 
-  - name: Zarządzanie zespołem
+  - name: Managing team
     level: 98%
 
-  - name: Obsługa e-mail
+  - name: Ability to use AI
     level: 98%
 
-  - name: Umiejętność wykorzystania AI
-    level: 98%
+  - name: Establish and maintain relationships with the Clients
 
-  - name: Obsługa komputera
+  - name: Sales & negotiation skills
 
-  - name: Budowanie oraz utrzymywanie relacji z klientami
-
-  - name: Umiejętność sprzedaży i negocjacji z klientem
-
-  - name: Sprawność fizyczna
-    level: 98%
-
-  - name: Umiejętność pracy w zespole
+  - name: Team Player
     level: 95%
 
-  - name: Umiejętność analitycznego myślenia
+  - name: Analytical thinking skills
     level: 85%
 
-  - name: Umiejętność zarządzania czasem pracy
+  - name: Time management
     level: 60%
 
 # footer: >
