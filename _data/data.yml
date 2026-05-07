@@ -81,14 +81,17 @@ education:
 experiences:
   title: Doświadczenie
   info:
-  - role: Sprzedawca usług Google
+  - role: Digital Sales Representative
     time: 2025 - 2026
     company: TTEC, Kraków
     details: |
-        - Sprzedaż usług Google firmom.
-        - Zarządzanie klientami na platformie Google ads.
-        - Utrzymywanie relacji z klientami.
-        - Zdobywanie nowych klientów.
+        - Nawiązywanie i utrzymywanie długoterminowych relacji biznesowych z nowymi klientami.
+        - Opracowywanie spersonalizowanych strategii reklamy internetowej dla nowych i obecnych klientów.
+        - Doradzanie klientom w zakresie Google Ads, w tym proponowanie nowych rozwiązań, negocjowanie ofert oraz edukowanie ich na temat produktów Google Ads.
+        - Zarządzanie wszystkimi aspektami Google Ads, w tym konfiguracją kampanii, przebudową istniejących kampanii oraz monitorowaniem, optymalizacją i raportowaniem wyników. 
+        - Sprzedaż produktów i rozwiązań Google Ads (inside sales, upselling, cross-selling) oraz ciągła analiza wyników w celu realizacji wyznaczonych celów.
+        - Współpraca z pracownikami różnych działów w celu przygotowywania rozwiązań dla klientów oraz rozwijania ich kampanii w trakcie obsługi klienta.
+        - Realizacja wymagań dotyczących produktywności (KPI) przy jednoczesnym byciu graczem zespołowym wspierającym realizację wspólnych celów sprzedażowych zespołu.
   - role: Usługi IT
     time: 2022 - 2024
     company: LGHTNNG, Poznań, Kraków
@@ -255,7 +258,7 @@ skills:
     level: 98%
 
   - name: Jira
-    level: 98%  
+  - level: 98%
 
   - name: Zarządzanie zespołem
     level: 98%
