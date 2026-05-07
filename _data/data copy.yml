@@ -16,8 +16,8 @@ sidebar:
   email: mateuszweszka@email.com
   phone: +48 539 644 681
   timezone: Europe/Warsaw # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: Polish
-  website: Cracow # Include the full website URL, including "http://" or "https://".
+  citizenship: Polak
+  website: Kraków # Include the full website URL, including "http://" or "https://".
   linkedin:
   xing:
   github:
@@ -35,22 +35,22 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: Języki
     info:
-    - idiom: English
+    - idiom: Angielski
       level: C2
 
-    - idiom: Polish
-      level: native
+    - idiom: Polski
+      level: ojczysty
 
   interests:
-    title: Hobbies
+    title: Zainteresowania
     info:
-    - item: Hiking
+    - item: Wspinaczka
       link:
 
 
-    - item: Cooking
+    - item: Gotowanie
       link:
 
 
@@ -64,7 +64,7 @@ career-profile:
   #   Donec quam felis, ultricies nec, pellentesque eu.
   #   Second paragraph if required.
 education:
-  title: Education
+  title: Edukacja
   info:
   - degree: Profil Mat-Fiz
     university: Liceum ogólnokształcące im. Marii Skłodowskiej-Curie
@@ -79,46 +79,47 @@ education:
     #     - Bullet point
 
 experiences:
-  title: Experience
+  title: Doświadczenie
   info:
-  - role: Digital Sales Representative
+  - role: Przedstawiciel ds. Sprzedaży
     time: 2025 - 2026
-    company: TTEC, Cracow
+    company: TTEC, Kraków
     details: |
-        - Establish and maintain long-term business relationships with the new Clients
-        - Develop customized online advertising strategies for individual new and existing clients.
-        - Provide guidance to clients on Google Ads-related matters, including proposing new solutions, negotiating offers, and educating them about Google Ads products.
-        - Manage all aspects of Google Ads, including campaign setup, rebuild existing campaigns, and monitor, optimize, and report on results.
-        - Sell Google Ads products and solutions (inside sales, upselling, cross selling), continuously analyzing results to ensure the achievement of set goals. 
-        - Collaborate with employees from various departments to prepare solutions for clients and develop their campaigns during the customer service period
-        - Meet your personal productivity requirements (KPIs) daily while being a team player contributing to the overall team sales targets
-  - role: Software Engineer/Team Leader
+        - Nawiązywanie i utrzymywanie długoterminowych relacji biznesowych z nowymi klientami.
+        - Opracowywanie spersonalizowanych strategii reklamy internetowej dla nowych i obecnych klientów.
+        - Doradzanie klientom w zakresie Google Ads, w tym proponowanie nowych rozwiązań, negocjowanie ofert oraz edukowanie ich na temat produktów Google Ads.
+        - Zarządzanie wszystkimi aspektami Google Ads, w tym konfiguracją kampanii, przebudową istniejących kampanii oraz monitorowaniem, optymalizacją i raportowaniem wyników. 
+        - Sprzedaż produktów i rozwiązań Google Ads (inside sales, upselling, cross-selling) oraz ciągła analiza wyników w celu realizacji wyznaczonych celów.
+        - Współpraca z pracownikami różnych działów w celu przygotowywania rozwiązań dla klientów oraz rozwijania ich kampanii w trakcie obsługi klienta.
+        - Realizacja wymagań dotyczących produktywności (KPI) przy jednoczesnym byciu graczem zespołowym wspierającym realizację wspólnych celów sprzedażowych zespołu.
+  - role: Programista/Lider zespołu
     time: 2022 - 2024
-    company: LGHTNNG, Poznan, Cracow
+    company: LGHTNNG, Poznań, Kraków
     details: |
-        - Acquiring new B2B clients and maintaining relationships with existing clients for software development services.
-        - Working collaboratively in an Agile/Scrum environment.
-        - Developing software solutions for company clients.
-        - Creating project roadmaps and breaking them down into individual tasks.
-        - Supporting problem-solving, conflict resolution, and project task planning and allocation.
-        - Assisting with interdepartmental communication throughout project execution.
-        - Reporting project progress to management.
-        - Managing the team and developing strategies for further growth and development.
-        - Handling phone and email communication with clients.
-  - role: Software Engineer/Team Leader
+        - Pozyskiwanie nowych oraz utrzymywanie relacji z istniejącymi klientami na usługi programistyczne w modelu B2B.
+        - Praca zespołowa w metodyce Agile/Scrum.
+        - Rozwój oprogramowania dla klientów firmy.
+        - Tworzenie tzw. Roadmaps dla projektów oraz rozbijanie ich na poszczególne zadania.
+        - Pomoc w rozwiązywaniu problemów, konfliktów oraz planowaniu i przydzielaniu zadań na projekcie.
+        - Pomoc w komunikacji międzywydziałowej podczas trwania projektu.
+        - Raportowanie postępów prac do przełożonych.
+        - Zarządzanie zespołem i wypracowywanie strategii dalszego rozwoju.
+        - Kontakt telefoniczny i e-mailowy z klientami.
+  - role: Programista/Lider zespołu
     time: 2019 - 2021
-    company: AtomScript Sp. z.o.o., Poznan
+    company: AtomScript Sp. z.o.o., Poznań
     details: |
-        - Development of the “Syllabus” software used by Polish universities.
-        - Development of software for a well-known law firm.
-        - Establishing and maintaining relationships with new and existing clients.
-        - Supporting sales activities.
-        - Leading a team of developers and defining strategies for further software development.
-  - role: Warehouse picker
+        - Rozwój oprogramowania "Syllabus" wykorzystywanego przez polskie uczelnie wyższe.
+        - Rozwój oprogramowania dla znanej kancelarii prawnej.
+        - Nawiązywanie oraz utrzymywanie relacji z nowymi oraz istniejącymi klientami.
+        - Wsparcie działań sprzedażowych.
+        - Dowodzenie zespołem programistów i wypracowywanie strategii dalszego rozwoju oprogramowania.
+  - role: Pracownik Magazynowy
     time: 2018 - 2019
     company: Amazon, Poznań
     details: |
-        - Working with handheld scanner to retrieve customer items from storage to fulfill orders.
+        - Pobieranie produktów z półek, pakowanie i nadawanie zamówień.
+        - Odbieranie, sprawdzanie, sortowanie i układanie produktów na półkach.
 
 certifications:
   # title: Certifications
@@ -244,7 +245,7 @@ recommendations:
   #     He is a great employee!
 
 skills:
-  title: Skills
+  title: Umiejętności
 
   toolset:
   - name: Ms Office
