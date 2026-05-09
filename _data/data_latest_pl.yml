@@ -16,8 +16,8 @@ sidebar:
   email: mateuszweszka@email.com
   phone: +48 539 644 681
   timezone: Europe/Warsaw # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: Polish
-  website: Cracow # Include the full website URL, including "http://" or "https://".
+  citizenship: Polak
+  website: Kraków # Include the full website URL, including "http://" or "https://".
   linkedin:
   xing:
   github:
@@ -35,22 +35,22 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: Języki
     info:
-    - idiom: English
+    - idiom: Angielski
       level: C2
 
-    - idiom: Polish
-      level: native
+    - idiom: Polski
+      level: ojczysty
 
   interests:
-    title: Hobbies
+    title: Zainteresowania
     info:
-    - item: Hiking
+    - item: Wspinaczka
       link:
 
 
-    - item: Cooking
+    - item: Gotowanie
       link:
 
 
@@ -64,10 +64,10 @@ career-profile:
   #   Donec quam felis, ultricies nec, pellentesque eu.
   #   Second paragraph if required.
 education:
-  title: Education
+  title: Edukacja
   info:
-  - degree: Mathematics and Physics profile
-    university: Maria Skłodowska-Curie General Secondary School
+  - degree: Profil Mat-Fiz
+    university: Liceum ogólnokształcące im. Marii Skłodowskiej-Curie
     time: 2007 - 2010
     # details: |
     #   Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -79,56 +79,56 @@ education:
     #     - Bullet point
 
 experiences:
-  title: Experience
+  title: Doświadczenie
   info:
-  - role: Digital Sales Representative
+  - role: Przedstawiciel ds. Sprzedaży
     time: 2025 - 2026
-    company: TTEC, Cracow
+    company: TTEC, Kraków
     details: |
-        - Establishing and maintaing long-term business relationships with the new Clients
-        - Developing customized online advertising strategies for individual new and existing clients.
-        - Providing guidance to clients on Google Ads-related matters, including proposing new solutions, negotiating offers, and educating them about Google Ads products.
-        - Managing all aspects of Google Ads, including campaign setup, rebuild existing campaigns, and monitor, optimize, and report on results.
-        - Selling Google Ads products and solutions (inside sales, upselling, cross selling), continuously analyzing results to ensure the achievement of set goals. 
-        - Collaborating with employees from various departments to prepare solutions for clients and develop their campaigns during the customer service period.
-        - Meeting your personal productivity requirements (KPIs) daily while being a team player contributing to the overall team sales targets.
-  - role: Software Engineer/Team Leader
+        - Nawiązywanie i utrzymywanie długoterminowych relacji biznesowych z nowymi klientami.
+        - Opracowywanie spersonalizowanych strategii reklamy internetowej dla nowych i obecnych klientów.
+        - Doradzanie klientom w zakresie Google Ads, w tym proponowanie nowych rozwiązań, negocjowanie ofert oraz edukowanie ich na temat produktów Google Ads.
+        - Zarządzanie wszystkimi aspektami Google Ads, w tym konfiguracją kampanii, przebudową istniejących kampanii oraz monitorowaniem, optymalizacją i raportowaniem wyników. 
+        - Sprzedaż produktów i rozwiązań Google Ads (inside sales, upselling, cross-selling) oraz ciągła analiza wyników w celu realizacji wyznaczonych celów.
+        - Współpraca z pracownikami różnych działów w celu przygotowywania rozwiązań dla klientów oraz rozwijania ich kampanii w trakcie obsługi klienta.
+        - Realizacja wymagań dotyczących produktywności (KPI) przy jednoczesnym byciu graczem zespołowym wspierającym realizację wspólnych celów sprzedażowych zespołu.
+  - role: Programista/Lider zespołu
     time: 2022 - 2024
-    company: LGHTNNG, Poznan, Cracow
+    company: LGHTNNG, Poznań, Kraków
     details: |
-        - Acquiring new B2B contracts and maintaining relationships with existing contractors for software development services.
-        - Working collaboratively in an Agile/Scrum environment.
-        - Developing software solutions for company clients.
-        - Planned projects and broke them down into individual tasks in accordance with technical requirements while maintaining business objectives.
-        - Supporting problem-solving, conflict resolution, and project task planning and allocation.
-        - Interdepartamental communication throughout project execution.
-        - Reporting project progress to management.
-        - Managing the team and developing strategies for further growth and development.
-        - Handling phone and email communication with clients.
-  - role: Software Engineer/Team Leader
+        - Pozyskiwanie nowych oraz utrzymywanie relacji z istniejącymi klientami na usługi programistyczne w modelu B2B.
+        - Praca zespołowa w metodyce Agile/Scrum.
+        - Planowanie projektów oraz rozbijanie ich na poszczególne zadania zgodnie z założeniami technicznymi przy zachowaniu potrzeb biznesowych.
+        - Rozwój oprogramowania dla klientów firmy.
+        - Kierowanie zespołem programistów.
+        - Wsparcie i komunikacja międzywydziałowa.
+        - Raportowanie postępów prac do przełożonych.
+        - Zarządzanie zespołem i wypracowywanie strategii dalszego rozwoju.
+        - Reprezentowanie zespołu podczas spotkań.
+  - role: Programista/Lider zespołu
     time: 2019 - 2021
     company: Fru S.A., Poznań, Kraków
     details: |
-        - Collaborated within an international Agile team on the development of a flagship distributed system handling over 1 million daily views, with a focus on optimizing payment and order microservices.
-        - Planned projects and broke them down into individual tasks in accordance with technical requirements while maintaining business objectives.
-        - Led a team of developers.
-        - Provided cross-departmental support and communication.
-        - Represented the team during meetings.
-  - role: Software Engineer/Team Leader
+        - Współpraca w międzynarodowym zespole Agile przy rozwoju flagowego systemu rozproszonego obsługującego ponad 1 milion wyświetleń dziennie, z naciskiem na optymalizację mikroserwisów płatności i zamówień.
+        - Planowanie projektów oraz rozbijanie ich na poszczególne zadania zgodnie z założeniami technicznymi przy zachowaniu potrzeb biznesowych.
+        - Kierowanie zespołem programistów.
+        - Wsparcie i komunikacja międzywydziałowa.
+        - Prowadzenie warsztatów technicznych.
+        - Reprezentowanie zespołu podczas spotkań.
+  - role: Programista
     time: 2017 - 2018
     company: IamIP Technology Sp z o.o., Poznań
     details: |
-        - Worked in a cross-functional, international team on containerized microservices of a patent platform. Involved utilization of AWS cloud, queueing, messaging, testing, tracking and heavy usage of ElasticSearch technology.
-        - Creating and conducting coding workshops.
-  - role: Software Engineer/Team Leader
+        - Praca w międzynarodowym zespole nad skonteneryzowanymi mikroserwisami platformy patentowej. Wykorzystanie chmury AWS, systemów kolejkowania i komunikacji wiadomości, testowania, monitorowania oraz intensywna praca z technologią ElasticSearch.
+  - role: Programista
     time: 2015 - 2016
-    company: AtomScript Sp. z.o.o., Poznan
+    company: AtomScript Sp. z.o.o., Poznań
     details: |
-        - Development of the “Syllabus” software used by Polish universities.
-        - Development of software for a well-known law firm.
-        - Establishing and maintaining relationships with new and existing clients.
-        - Supporting sales activities.
-        - Leading a team of developers and defining strategies for further software development.
+        - Rozwój oprogramowania "Syllabus" wykorzystywanego przez polskie uczelnie wyższe.
+        - Rozwój oprogramowania dla znanej kancelarii prawnej.
+        - Nawiązywanie oraz utrzymywanie relacji z nowymi oraz istniejącymi klientami.
+        - Wsparcie działań sprzedażowych.
+        - Dowodzenie zespołem programistów i wypracowywanie strategii dalszego rozwoju oprogramowania.
 
 certifications:
   # title: Certifications
@@ -254,35 +254,43 @@ recommendations:
   #     He is a great employee!
 
 skills:
-  title: Skills
+  title: Umiejętności
 
   toolset:
   - name: Ms Office
     level: 98%
 
-  - name: Communication
+  - name: Komunikatywność
     level: 98%
 
   - name: Jira
     level: 98%
 
-  - name: Managing team
+  - name: Zarządzanie zespołem
     level: 98%
 
-  - name: Ability to use AI
+  - name: Obsługa e-mail
     level: 98%
 
-  - name: Establish and maintain relationships with the Clients
+  - name: Umiejętność wykorzystania AI
+    level: 98%
 
-  - name: Sales & negotiation skills
+  - name: Obsługa komputera
 
-  - name: Team Player
+  - name: Budowanie oraz utrzymywanie relacji z klientami
+
+  - name: Umiejętność sprzedaży i negocjacji z klientem
+
+  - name: Sprawność fizyczna
+    level: 98%
+
+  - name: Umiejętność pracy w zespole
     level: 95%
 
-  - name: Analytical thinking skills
+  - name: Umiejętność analitycznego myślenia
     level: 85%
 
-  - name: Time management
+  - name: Umiejętność zarządzania czasem pracy
     level: 60%
 
 # footer: >
