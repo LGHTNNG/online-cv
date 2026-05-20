@@ -81,19 +81,8 @@ education:
 experiences:
   title: Doświadczenie
   info:
-  - role: Sprzedawca / Kasjer
-    time: 2025 - 2026
-    company: Biedronka, Kraków
-    details: |
-        - Profesjonalna obsługa klientów zgodnie ze standardami sprzedaży i jakości obsługi.
-        - Obsługa kasy fiskalnej oraz terminala płatniczego, realizacja transakcji gotówkowych i bezgotówkowych.
-        - Doradzanie klientom w zakresie produktów oraz wspieranie decyzji zakupowych.
-        - Dbanie o prawidłową ekspozycję towarów i uzupełnianie stanów magazynowych na sali sprzedaży.
-        - Kontrola terminów ważności produktów i utrzymanie standardów jakości.
-        - Przyjmowanie dostaw, rozkładanie towaru oraz organizacja przestrzeni magazynowej.
-        - Współpraca z zespołem w realizacji celów sprzedażowych sklepu.
   - role: Pracownik porządkowy
-    time: 2022 - 2024
+    time: 2024 - 2026
     company: Grupa Ever, Kraków
     details: |
         - Utrzymanie czystości i porządku w wyznaczonych obszarach zgodnie z obowiązującymi standardami.
@@ -103,6 +92,17 @@ experiences:
         - Organizacja pracy własnej i wykonywanie obowiązków zgodnie z harmonogramem.
         - Współpraca z zespołem w zapewnieniu wysokiego standardu czystości obiektu.
         - Przestrzeganie zasad BHP oraz procedur wewnętrznych.
+  - role: Sprzedawca / Kasjer
+    time: 2022 - 2023
+    company: Biedronka, Kraków
+    details: |
+        - Profesjonalna obsługa klientów zgodnie ze standardami sprzedaży i jakości obsługi.
+        - Obsługa kasy fiskalnej oraz terminala płatniczego, realizacja transakcji gotówkowych i bezgotówkowych.
+        - Doradzanie klientom w zakresie produktów oraz wspieranie decyzji zakupowych.
+        - Dbanie o prawidłową ekspozycję towarów i uzupełnianie stanów magazynowych na sali sprzedaży.
+        - Kontrola terminów ważności produktów i utrzymanie standardów jakości.
+        - Przyjmowanie dostaw, rozkładanie towaru oraz organizacja przestrzeni magazynowej.
+        - Współpraca z zespołem w realizacji celów sprzedażowych sklepu.
   - role: Przedstawiciel ds. Sprzedaży
     time: 2020 - 2021
     company: TTEC, Kraków
@@ -272,7 +272,10 @@ skills:
   - name: Komunikatywność
     level: 98%
 
-  - name: Jira
+  - name: Obsługa maszyn czyszących
+    level: 98%
+
+  - name: Obsługa maszyn typu kosiarka, myjka ciśnieniowa
     level: 98%
 
   - name: Zarządzanie zespołem
@@ -281,7 +284,7 @@ skills:
   - name: Obsługa e-mail
     level: 98%
 
-  - name: Umiejętność wykorzystania AI
+  - name: Umiejętność korzystania z narzędzi(wkrętarka, wiertarka)
     level: 98%
 
   - name: Obsługa komputera
